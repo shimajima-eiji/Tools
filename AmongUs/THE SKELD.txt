@@ -1,0 +1,206 @@
+# サボタージュ
+みたせきゅ	at Security	短縮よみ	色きると併用して使う
+みたあど	at Admin	短縮よみ	色さすと併用して使う
+せきゅみた	at Security	短縮よみ	色きると併用して使う
+あどみた	at Admin	短縮よみ	色さすと併用して使う
+だれりあ	Who fixed the reactor meltdown?	短縮よみ
+りあうえ	Who fixed the reactor meltdown for upper?	短縮よみ
+りあした	Who fixed the reactor meltdown for lower?	短縮よみ
+だれえれ	Who fixed the Fix Lights?	短縮よみ
+だれでん	Who fixed the Fix Lights?	短縮よみ
+だれおー	Who fixed the Oxygen Depleted for O2?	短縮よみ
+だれおつ	Who fixed the Oxygen Depleted for O2?	短縮よみ
+だれおー	Who fixed the Oxygen Depleted for Admin?	短縮よみ
+だれおつ	Who fixed the Oxygen Depleted for Admin?	短縮よみ
+だれあど	Who fixed the Oxygen Depleted for Admin?	短縮よみ
+だれこみゅ	Who fixed the Comms Sabotaged?
+
+# 場所名
+あどみん  Admin 短縮よみ
+かふぇ	Cafeteria	短縮よみ	かふぇてりあで変換すると一発
+こみゅにけーしょん	Communications	短縮よみ	こみゅにけーしょんｓで変換すると一発
+えれくとりかる	Electrical	短縮よみ	えれくとりっくalが手っ取り早い
+あっぱー	Upper Engine	短縮よみ
+あぷ	Upper Engine	短縮よみ
+うえ	Upper Engine	短縮よみ
+した	Lower Engine	短縮よみ
+ろあー	Lower Engine	短縮よみ
+ろわー	Lower Engine	短縮よみ
+ろう	Lower Engine	短縮よみ
+べっどべい	MedBay	短縮よみ	メディカルベイでメッドベイ
+べっどめい	MedBay	短縮よみ	メディカルベイでメッドベイ
+めっどべい	MedBay	短縮よみ
+めどべい	MedBay	短縮よみ
+めどべ	MedBay	短縮よみ
+いむ	MedBay	短縮よみ
+なび	Navigation	短縮よみ
+ぜろつー	O2	短縮よみ	おーつー
+おーつー	O2	短縮よみ
+せきゅ	Security	短縮よみ
+しーるど	Shields	短縮よみ	しーるどｓで変換すると一発
+うぇぽん	Weapons	短縮よみ	うぇぽんｓで変換すると一発
+
+# 全タスク
+あどたすく	i was doing a task(Swipe card) 4 Admin	短縮よみ
+あどたすく	i was doing a task(Fix Wiring) 4 Admin	短縮よみ
+あどみんたすく	i was doing a task(Swipe card) 4 Admin	短縮よみ
+あどみんたすく	i was doing a task(Fix Wiring) 4 Admin	短縮よみ
+かふぇたすく	i was doing a task(Upload Data) 4 Cafeteria	短縮よみ
+かふぇたすく	i was doing a task(Fix Wiring) 4 Cafeteria	短縮よみ
+かふぇたすく	i was doing a task(Empty Garbage) 4 Cafeteria	短縮よみ
+こみゅたすく	i was doing a task(Upload Data) 4 Communications	短縮よみ
+こみゅたすく	i was doing a task(Divert Power) 4 Communications	短縮よみ
+こみゅにけーしょんたすく	i was doing a task(Upload Data) 4 Communications	短縮よみ
+こみゅにけーしょんたすく	i was doing a task(Divert Power) 4 Communications	短縮よみ
+えれたすく	i was doing a task(Upload Data) 4 Electrical	短縮よみ
+えれたすく	i was doing a task(Fix Wiring) 4 Electrical	短縮よみ
+えれたすく	i was doing a task(Calibrate Distributor) 4 Electrical	短縮よみ
+えれくとりかるたすく	i was doing a task(Upload Data) 4 Electrical	短縮よみ
+えれくとりかるたすく	i was doing a task(Fix Wiring) 4 Electrical	短縮よみ
+えれくとりかるたすく	i was doing a task(Calibrate Distributor) 4 Electrical	短縮よみ
+ろわたすく	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+ろわたすく	i was doing a task(Fuel Engines) 4 Storage	短縮よみ
+ろわたすく	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+ろあたすく	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+ろあたすく	i was doing a task(Fuel Engines) 4 Lower Engine	短縮よみ
+ろあたすく	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+したたすく	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+したたすく	i was doing a task(Fuel Engines) 4 Lower Engine	短縮よみ
+したたすく	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+ろわーたすく	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+ろわーたすく	i was doing a task(Fuel Engines) 4 Storage	短縮よみ
+ろわーたすく	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+ろあーたすく	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+ろあーたすく	i was doing a task(Fuel Engines) 4 Lower Engine	短縮よみ
+ろあーたすく	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+うえたすく	i was doing a task(Allgn Engine Output) 4 Upper Engine	短縮よみ
+うえたすく	i was doing a task(Fuel Engines) 4 Upper Engine	短縮よみ
+うえたすく	i was doing a task(Divert Power) 4 Upper Engine	短縮よみ
+あぷたすく	i was doing a task(Allgn Engine Output) 4 Upper Engine	短縮よみ
+あぷたすく	i was doing a task(Fuel Engines) 4 Upper Engine	短縮よみ
+あぷたすく	i was doing a task(Divert Power) 4 Upper Engine	短縮よみ
+あっぱーたすく	i was doing a task(Allgn Engine Output) 4 Upper Engine	短縮よみ
+あっぱーたすく	i was doing a task(Fuel Engines) 4 Upper Engine	短縮よみ
+あっぱーたすく	i was doing a task(Divert Power) 4 Upper Engine	短縮よみ
+めどたすく	i was doing a task(Submit Scan) 4 MedBay	短縮よみ
+めどたすく	i was doing a task(Inspect Sample) 4 MedBay	短縮よみ
+めっどべいたすく	i was doing a task(Submit Scan) 4 MedBay	短縮よみ
+めっどべいたすく	i was doing a task(Inspect Sample) 4 MedBay	短縮よみ
+なびたすく	i was doing a task(Chart Course) 4 Navigation	短縮よみ
+なびたすく	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+なびたすく	i was doing a task(Divert Power) 4 Navigation	短縮よみ
+なびたすく	i was doing a task(Fix Wiring) 4 Navigation	短縮よみ
+なびたすく	i was doing a task(Upload Data) 4 Navigation	短縮よみ
+なびげーしょんたすく	i was doing a task(Chart Course) 4 Navigation	短縮よみ
+なびげーしょんたすく	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+なびげーしょんたすく	i was doing a task(Divert Power) 4 Navigation	短縮よみ
+なびげーしょんたすく	i was doing a task(Fix Wiring) 4 Navigation	短縮よみ
+なびげーしょんたすく	i was doing a task(Upload Data) 4 Navigation	短縮よみ
+おーたすく	i was doing a task(Divert Power) 4 O2	短縮よみ
+おーたすく	i was doing a task(Clean O2 Filter) 4 O2	短縮よみ
+おーたすく	i was doing a task(Empty Garbage) 4 O2	短縮よみ
+おつたすく	i was doing a task(Divert Power) 4 O2	短縮よみ
+おつたすく	i was doing a task(Clean O2 Filter) 4 O2	短縮よみ
+おつたすく	i was doing a task(Empty Garbage) 4 O2	短縮よみ
+りあたすく	i was doing a task(Start Reactor) 4 Reactor	短縮よみ
+りあたすく	i was doing a task(Unloack Manifolds) 4 Reactor	短縮よみ
+せきゅたすく	i was doing a task(Divert Power) 4 Security	短縮よみ
+せきゅたすく	i was doing a task(Fix Wiring) 4 Security	短縮よみ
+せきゅりてぃたすく	i was doing a task(Divert Power) 4 Security	短縮よみ
+せきゅりてぃたすく	i was doing a task(Fix Wiring) 4 Security	短縮よみ
+しーるどたすく	i was doing a task(Divert Power) 4 Shields	短縮よみ
+しーるどたすく	i was doing a task(Prime Shields) 4 Shilds	短縮よみ
+すとたすく	i was doing a task(Fix Wiring) 4 Storage	短縮よみ
+すとたすく	i was doing a task(Empty Garbage) 4 Storage	短縮よみ
+すとたすく	i was doing a task(Fuel Engines) 4 Storage	短縮よみ
+すとれーじたすく	i was doing a task(Fix Wiring) 4 Storage	短縮よみ
+すとれーじたすく	i was doing a task(Empty Garbage) 4 Storage	短縮よみ
+すとれーじたすく	i was doing a task(Fuel Engines) 4 Storage	短縮よみ
+うぇたすく	i was doing a task(Upload Data) 4 Weapons	短縮よみ
+うぇたすく	i was doing a task(Divert Power) 4 Weapons	短縮よみ
+うぇたすく	i was doing a task(Clear Asteroids) 4 Wepons	短縮よみ
+うぇぽんたすく	i was doing a task(Upload Data) 4 Weapons	短縮よみ
+うぇぽんたすく	i was doing a task(Divert Power) 4 Weapons	短縮よみ
+うぇぽんたすく	i was doing a task(Clear Asteroids) 4 Wepons	短縮よみ
+
+# そこだけ
+かーど	i was doing a task(Swipe card) 4 Admin	短縮よみ
+すわいぷ	i was doing a task(Swipe card) 4 Admin	短縮よみ
+はいでん	i was doing a task(Calibrate Distributor) 4 Electrical	短縮よみ
+したえん	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+ろわーえん	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+ろあーえん	i was doing a task(Allgn Engine Output) 4 Lower Engine	短縮よみ
+うええん	i was doing a task(Allgn Engine Output) 4 Upper Engine	短縮よみ
+あぷえん	i was doing a task(Allgn Engine Output) 4 Upper Engine	短縮よみ
+すきゃん	i was doing a task(Submit Scan) 4 MedBay	短縮よみ
+さんぷる	i was doing a task(Inspect Sample) 4 MedBay	短縮よみ
+しけんかん	i was doing a task(Inspect Sample) 4 MedBay	短縮よみ
+ちゃーと	i was doing a task(Chart Course) 4 Navigation	短縮よみ
+こーす	i was doing a task(Chart Course) 4 Navigation	短縮よみ
+こうろ	i was doing a task(Chart Course) 4 Navigation	短縮よみ
+すたび	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+すたびらいず	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+そうだ	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+れーだー	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+ぽいんと	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+ぽいんた	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+ぽいんたー	i was doing a task(Stabilize Steering) 4 Navigation	短縮よみ
+ふぃるた	i was doing a task(Clean O2 Filter) 4 O2	短縮よみ
+ふぃるたー	i was doing a task(Clean O2 Filter) 4 O2	短縮よみ
+げんしろ	i was doing a task(Start Reactor) 4 Reactor	短縮よみ
+れんぞく	i was doing a task(Start Reactor) 4 Reactor	短縮よみ
+あんろっく	i was doing a task(Unloack Manifolds) 4 Reactor	短縮よみ
+いちからじゅう	i was doing a task(Unloack Manifolds) 4 Reactor	短縮よみ
+しーるどたっぷ	i was doing a task(Prime Shields) 4 Shilds	短縮よみ
+しーるどくりっく	i was doing a task(Prime Shields) 4 Shilds	短縮よみ
+しゅーてぃんぐ	i was doing a task(Clear Asteroids) 4 Wepons	短縮よみ
+はかい	i was doing a task(Clear Asteroids) 4 Wepons	短縮よみ
+しょっと	i was doing a task(Clear Asteroids) 4 Wepons	短縮よみ
+うつ	i was doing a task(Clear Asteroids) 4 Wepons	短縮よみ
+
+# いっぱい
+## Upload Data
+かふぇだうん	i was doing a task(Upload Data) 4 Cafeteria	短縮よみ
+こみゅだうん	i was doing a task(Upload Data) 4 Communications	短縮よみ
+えれだうん	i was doing a task(Upload Data) 4 Electrical	短縮よみ
+なびだうん	i was doing a task(Upload Data) 4 Navigation	短縮よみ
+うぇだうん	i was doing a task(Upload Data) 4 Weapons	短縮よみ
+あっぷろーど	i was doing a task(Upload Data) 4 Admin	短縮よみ
+
+## Empty Garbage
+ごみかふぇ	i was doing a task(Empty Garbage) 4 Cafeteria	短縮よみ
+ごみすとれーじ	i was doing a task(Empty Garbage) 4 Storage	短縮よみ
+ごみおーつー	i was doing a task(Empty Garbage) 4 O2	短縮よみ
+
+## Divert Power
+そうでん	i was doing a task(Divert Power) 4 Electrical	短縮よみ
+あぷでん	i was doing a task(Divert Power) 4 Upper Engine	短縮よみ
+うえでん	i was doing a task(Divert Power) 4 Upper Engine	短縮よみ
+ろわでん	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+ろあでん	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+したでん	i was doing a task(Divert Power) 4 Lower Engine	短縮よみ
+うぇでん	i was doing a task(Divert Power) 4 Weapons	短縮よみ
+しるでん	i was doing a task(Divert Power) 4 Shields	短縮よみ
+なびでん	i was doing a task(Divert Power) 4 Navigation	短縮よみ
+こみゅでん	i was doing a task(Divert Power) 4 Communications	短縮よみ
+おーでん	i was doing a task(Divert Power) 4 O2	短縮よみ
+おつでん	i was doing a task(Divert Power) 4 O2	短縮よみ
+せきゅでん	i was doing a task(Divert Power) 4 Security	短縮よみ
+
+## Fuel Engines(Storage)
+がそりん	i was doing a task(Fuel Engines) 4 Upper Engine	短縮よみ	ストレージでも使用
+ねんりょう	i was doing a task(Fuel Engines) 4 Lower Engine	短縮よみ	ストレージでも使用
+がそりん	i was doing a task(Fuel Engines) 4 Lower Engine	短縮よみ	ストレージでも使用
+ねんりょう	i was doing a task(Fuel Engines) 4 Upper Engine	短縮よみ	ストレージでも使用
+がそりん	i was doing a task(Fuel Engines) 4 Storage	短縮よみ	エンジンでも使用
+ねんりょう	i was doing a task(Fuel Engines) 4 Storage	短縮よみ	エンジンでも使用
+ぽり	i was doing a task(Fuel Engines) 4 Storage	短縮よみ
+ぽりたんく	i was doing a task(Fuel Engines) 4 Storage	短縮よみ
+
+## Fix Wiring(なぜかElectrical)
+えれわい	i was doing a task(Fix Wiring) 4 Electrical	短縮よみ
+すとわい	i was doing a task(Fix Wiring) 4 Storage	短縮よみ
+かふぇわい	i was doing a task(Fix Wiring) 4 Cafeteria	短縮よみ
+あどわい	i was doing a task(Fix Wiring) 4 Admin	短縮よみ
+せきゅわい	i was doing a task(Fix Wiring) 4 Security	短縮よみ
+なびわい	i was doing a task(Fix Wiring) 4 Navigation	短縮よみ

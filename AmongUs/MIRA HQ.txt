@@ -1,0 +1,143 @@
+‚İ‚½‚±‚İ‚ã	at Communications	’Zk‚æ‚İ	F‚³‚·‚Æ•¹—p‚µ‚Äg‚¤
+‚İ‚½‚ ‚Ç	at Admin	’Zk‚æ‚İ	F‚³‚·‚Æ•¹—p‚µ‚Äg‚¤
+‚±‚İ‚ã‚İ‚½	at Communications	’Zk‚æ‚İ	F‚«‚é‚Æ•¹—p‚µ‚Äg‚¤
+‚ ‚Ç‚İ‚½	at Admin	’Zk‚æ‚İ	F‚³‚·‚Æ•¹—p‚µ‚Äg‚¤
+‚¾‚ê‚è‚ 	Who fixed the reactor meltdown?	’Zk‚æ‚İ
+‚è‚ ‚Ğ‚¾‚è	Who fixed the reactor meltdown for left?	’Zk‚æ‚İ
+‚è‚ ‚İ‚¬	Who fixed the reactor meltdown for right?	’Zk‚æ‚İ
+‚¾‚ê‚¦‚ê	Who fixed the Fix Lights?	’Zk‚æ‚İ
+‚¾‚ê‚Å‚ñ	Who fixed the Fix Lights?	’Zk‚æ‚İ
+‚¾‚ê‚¨[	Who fixed the Oxygen Depleted for Greenhouse?	’Zk‚æ‚İ
+‚¾‚ê‚¨[	Who fixed the Oxygen Depleted for corridor?	’Zk‚æ‚İ
+‚¾‚ê‚¨‚Â	Who fixed the Oxygen Depleted for Greenhouse?	’Zk‚æ‚İ
+‚¾‚ê‚¨‚Â	Who fixed the Oxygen Depleted for corridor?	’Zk‚æ‚İ
+‚¾‚ê‚±‚İ‚ã	Who fixed the Comms Sabotaged?	’Zk‚æ‚İ
+‚±‚İ‚ã‚¤‚¦	Who fixed the Comms Sabotaged meltdown for upper?	’Zk‚æ‚İ
+‚±‚İ‚ã‚µ‚½	Who fixed the Comms Sabotaged meltdown for lower?	’Zk‚æ‚İ
+‚ ‚Ç‚İ‚ñ	Admin	’Zk‚æ‚İ
+‚©‚Ó‚¥	Cafeteria	’Zk‚æ‚İ	‚©‚Ó‚¥‚Ä‚è‚ ‚Å•ÏŠ·‚·‚é‚Æˆê”­
+‚±‚İ‚ã‚É‚¯[‚µ‚å‚ñ	Communications	’Zk‚æ‚İ	‚±‚İ‚ã‚É‚¯[‚µ‚å‚ñ‚“‚Å•ÏŠ·‚·‚é‚Æˆê”­
+‚®‚è[‚ñ‚Í‚¤‚·	Greenhouse	’Zk‚æ‚İ
+‚¨‚ñ‚µ‚Â	Greenhouse	’Zk‚æ‚İ	‚®‚è[‚ñ‚Í‚¤‚·‚ğÌ—p
+‚×‚Á‚Ç‚×‚¢	MedBay	’Zk‚æ‚İ	ƒƒfƒBƒJƒ‹ƒxƒC‚ÅƒƒbƒhƒxƒC
+‚×‚Á‚Ç‚ß‚¢	MedBay	’Zk‚æ‚İ	ƒƒfƒBƒJƒ‹ƒxƒC‚ÅƒƒbƒhƒxƒC
+‚ß‚Á‚Ç‚×‚¢	MedBay	’Zk‚æ‚İ
+‚ß‚Ç‚×‚¢	MedBay	’Zk‚æ‚İ
+‚ß‚Ç‚×	MedBay	’Zk‚æ‚İ
+‚¢‚Ş	MedBay	’Zk‚æ‚İ
+‚ ‚Ç‚½‚·‚­	i was doing a task(Prime Shields) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚½‚·‚­	i was doing a task(Chart Course) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚½‚·‚­	i was doing a task(Divert Power to Admin) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚½‚·‚­	i was doing a task(Enter Id Code) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚İ‚ñ‚½‚·‚­	i was doing a task(Prime Shields) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚İ‚ñ‚½‚·‚­	i was doing a task(Chart Course) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚İ‚ñ‚½‚·‚­	i was doing a task(Divert Power to Admin) 4 Admin	’Zk‚æ‚İ
+‚ ‚Ç‚İ‚ñ‚½‚·‚­	i was doing a task(Enter Id Code) 4 Admin	’Zk‚æ‚İ
+‚Î‚é‚½‚·‚­	i was doing a task(Clear Asteroids) 4 Balcony	’Zk‚æ‚İ
+‚Î‚é‚½‚·‚­	i was doing a task(Measure Weather) 4 Balcony	’Zk‚æ‚İ
+‚Î‚é‚±‚É[‚½‚·‚­	i was doing a task(Clear Asteroids) 4 Balcony	’Zk‚æ‚İ
+‚Î‚é‚±‚É[‚½‚·‚­	i was doing a task(Measure Weather) 4 Balcony	’Zk‚æ‚İ
+‚©‚Ó‚¥‚½‚·‚­	i was doing a task(Empty Garbage) 4 Cafeteria	’Zk‚æ‚İ
+‚©‚Ó‚¥‚½‚·‚­	i was doing a task(Divert Power to Cafeteria) 4 Cafeteria	’Zk‚æ‚İ
+‚©‚Ó‚¥‚½‚·‚­	i was doing a task(Buy Beverage) 4 Cafeteria	’Zk‚æ‚İ
+‚©‚Ó‚¥‚½‚·‚­	i was doing a task(Fix Wiring) 4 Storage	’Zk‚æ‚İ
+‚©‚Ó‚¥‚Ä‚è‚ ‚½‚·‚­	i was doing a task(Empty Garbage) 4 Cafeteria	’Zk‚æ‚İ
+‚©‚Ó‚¥‚Ä‚è‚ ‚½‚·‚­	i was doing a task(Divert Power to Cafeteria) 4 Cafeteria	’Zk‚æ‚İ
+‚©‚Ó‚¥‚Ä‚è‚ ‚½‚·‚­	i was doing a task(Buy Beverage) 4 Cafeteria	’Zk‚æ‚İ
+‚©‚Ó‚¥‚Ä‚è‚ ‚½‚·‚­	i was doing a task(Fix Wiring) 4 Storage	’Zk‚æ‚İ
+‚±‚İ‚ã‚½‚·‚­	i was doing a task(Upload Data) 4 Communications	’Zk‚æ‚İ
+‚±‚İ‚ã‚½‚·‚­	i was doing a task(Divert Power) 4 Communications	’Zk‚æ‚İ
+‚±‚İ‚ã‚É‚¯[‚µ‚å‚ñ‚½‚·‚­	i was doing a task(Upload Data) 4 Communications	’Zk‚æ‚İ
+‚±‚İ‚ã‚É‚¯[‚µ‚å‚ñ‚½‚·‚­	i was doing a task(Divert Power) 4 Communications	’Zk‚æ‚İ
+‚®‚è[‚ñ‚½‚·‚­	i was doing a task(Fix Wiring) 4 Greenhouse	’Zk‚æ‚İ
+‚®‚è[‚ñ‚½‚·‚­	i was doing a task(Divert Power to Greenhouse) 4 Greenhouse	’Zk‚æ‚İ
+‚®‚è[‚ñ‚½‚·‚­	i was doing a task(Clean O2 Filter) 4 Greenhouse	’Zk‚æ‚İ
+‚Í‚¤‚·‚½‚·‚­	i was doing a task(Fix Wiring) 4 Greenhouse	’Zk‚æ‚İ
+‚Í‚¤‚·‚½‚·‚­	i was doing a task(Divert Power to Greenhouse) 4 Greenhouse	’Zk‚æ‚İ
+‚Í‚¤‚·‚½‚·‚­	i was doing a task(Clean O2 Filter) 4 Greenhouse	’Zk‚æ‚İ
+‚Ù[‚é‚½‚·‚­	i was doing a task(Fix Wiring) 4 Hallway	’Zk‚æ‚İ
+‚ë‚¤‚©‚½‚·‚­	i was doing a task(Fix Wiring) 4 Hallway	’Zk‚æ‚İ
+‚®‚è[‚ñ‚Í‚¤‚·‚½‚·‚­	i was doing a task(Fix Wiring) 4 Greenhouse	’Zk‚æ‚İ
+‚®‚è[‚ñ‚Í‚¤‚·‚½‚·‚­	i was doing a task(Divert Power to Greenhouse) 4 Greenhouse	’Zk‚æ‚İ
+‚®‚è[‚ñ‚Í‚¤‚·‚½‚·‚­	i was doing a task(Clean O2 Filter) 4 Greenhouse	’Zk‚æ‚İ
+‚ç‚ñ‚¿‚½‚·‚­	i was doing a task(Fuel Engines) 4 Launchpad	’Zk‚æ‚İ
+‚ç‚ñ‚¿‚½‚·‚­	i was doing a task(Divert Power to Launchpad) 4 Launchpad	’Zk‚æ‚İ
+‚ç‚ñ‚¿‚½‚·‚­	i was doing a task(Run Diagnostics) 4 Launchpad	’Zk‚æ‚İ
+‚ç‚ñ‚¿‚Ï‚Á‚Ç‚½‚·‚­	i was doing a task(Fuel Engines) 4 Launchpad	’Zk‚æ‚İ
+‚ç‚ñ‚¿‚Ï‚Á‚Ç‚½‚·‚­	i was doing a task(Divert Power to Launchpad) 4 Launchpad	’Zk‚æ‚İ
+‚ç‚ñ‚¿‚Ï‚Á‚Ç‚½‚·‚­	i was doing a task(Run Diagnostics) 4 Launchpad	’Zk‚æ‚İ
+‚ß‚Ç‚½‚·‚­	i was doing a task(Submit Scan) 4 MedBay	’Zk‚æ‚İ
+‚ß‚Ç‚½‚·‚­	i was doing a task(Divert Power to MedBay) 4 MedBay	’Zk‚æ‚İ
+‚ß‚Á‚Ç‚×‚¢‚½‚·‚­	i was doing a task(Submit Scan) 4 MedBay	’Zk‚æ‚İ
+‚ß‚Á‚Ç‚×‚¢‚½‚·‚­	i was doing a task(Divert Power to MedBay) 4 MedBay	’Zk‚æ‚İ
+‚¨‚Ó‚¡‚·‚½‚·‚­	i was doing a task(Process Data) 4 MedBay	’Zk‚æ‚İ
+‚¨‚Ó‚¡‚·‚½‚·‚­	i was doing a task(Divert Power to Office) 4 MedBay	’Zk‚æ‚İ
+‚è‚ ‚½‚·‚­	i was doing a task(Start Reactor) 4 Reactor	’Zk‚æ‚İ
+‚è‚ ‚½‚·‚­	i was doing a task(Unloack Manifolds) 4 Reactor	’Zk‚æ‚İ
+‚·‚Æ‚½‚·‚­	i was doing a task(Water Plants) 4 Storage	’Zk‚æ‚İ
+‚·‚Æ‚½‚·‚­	i was doing a task(Fix Wiring) 4 Storage	’Zk‚æ‚İ
+‚·‚Æ‚ê[‚¶‚½‚·‚­	i was doing a task(Water Plants) 4 Storage	’Zk‚æ‚İ
+‚·‚Æ‚ê[‚¶‚½‚·‚­	i was doing a task(Fix Wiring) 4 Storage	’Zk‚æ‚İ
+‚µ[‚é‚Ç‚½‚Á‚Õ	i was doing a task(Prime Shields) 4 Admin	’Zk‚æ‚İ
+‚µ[‚é‚Ç‚­‚è‚Á‚­	i was doing a task(Prime Shields) 4 Admin	’Zk‚æ‚İ
+‚¿‚á[‚Æ	i was doing a task(Chart Course) 4 Admin	’Zk‚æ‚İ
+‚±[‚·	i was doing a task(Chart Course) 4 Admin	’Zk‚æ‚İ
+‚±‚¤‚ë	i was doing a task(Chart Course) 4 Admin	’Zk‚æ‚İ
+‚ ‚¢‚Å‚¡[	i was doing a task(Enter Id Code) 4 Admin	’Zk‚æ‚İ
+‚«‚«‚ã‚¤	i was doing a task(Measure Weather) 4 Balcony	’Zk‚æ‚İ
+‚µ‚ã[‚Ä‚¡‚ñ‚®	i was doing a task(Clear Asteroids) 4 Balcony	’Zk‚æ‚İ
+‚Í‚©‚¢	i was doing a task(Clear Asteroids) 4 Balcony	’Zk‚æ‚İ
+‚µ‚å‚Á‚Æ	i was doing a task(Clear Asteroids) 4 Balcony	’Zk‚æ‚İ
+‚¤‚Â	i was doing a task(Clear Asteroids) 4 Balcony	’Zk‚æ‚İ
+‚¶‚Í‚ñ‚«	i was doing a task(Buy Beverage) 4 Cafeteria	’Zk‚æ‚İ
+‚¶‚ã[‚·	i was doing a task(Buy Beverage) 4 Cafeteria	’Zk‚æ‚İ
+‚Ì‚İ‚à‚Ì	i was doing a task(Buy Beverage) 4 Cafeteria	’Zk‚æ‚İ
+‚²‚İ‚Ğ‚ë‚¢	i was doing a task(Clean O2 Filter) 4 Greenhouse	’Zk‚æ‚İ
+‚¨‚¿‚Î	i was doing a task(Clean O2 Filter) 4 Greenhouse	’Zk‚æ‚İ
+‚Í‚Á‚Ï	i was doing a task(Clean O2 Filter) 4 Greenhouse	’Zk‚æ‚İ
+‚Å[‚½	i was doing a task(Process Data) 4 Office	’Zk‚æ‚İ
+‚ ‚Á‚Õ‚ë[‚Ç	i was doing a task(Process Data) 4 Office	’Zk‚æ‚İ
+‚Ù‚¤‚¹‚«	i was doing a task(Assemble Artifact) 4 Laboratory	’Zk‚æ‚İ
+‚µ‚ã‚¤‚è	i was doing a task(Assemble Artifact) 4 Laboratory	’Zk‚æ‚İ
+‚©‚¹‚«	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚³‚ñ‚Õ‚é	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚»[‚Æ	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚Ó‚è‚í‚¯	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚Ô‚ñ‚é‚¢	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚í‚¯‚é	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚Í‚±	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚¢‚µ	i was doing a task(Sort Samples) 4 Laboratory	’Zk‚æ‚İ
+‚ª‚»‚è‚ñ	i was doing a task(Fuel Engines) 4 Launchpad	’Zk‚æ‚İ
+‚Ë‚ñ‚è‚å‚¤	i was doing a task(Fuel Engines) 4 Launchpad	’Zk‚æ‚İ
+‚½‚¢‚Ü[	i was doing a task(Run Diagnostic) 4 Launchpad	’Zk‚æ‚İ
+‚ë‚Ú‚Á‚Æ	i was doing a task(Run Diagnostic) 4 Launchpad	’Zk‚æ‚İ
+‚É‚ñ‚¬‚å‚¤	i was doing a task(Run Diagnostic) 4 Launchpad	’Zk‚æ‚İ
+‚·‚«‚á‚ñ	i was doing a task(Submit Scan) 4 MaedBay	’Zk‚æ‚İ
+‚°‚ñ‚µ‚ë	i was doing a task(Start Reactor) 4 Reactor	’Zk‚æ‚İ
+‚ê‚ñ‚¼‚­	i was doing a task(Start Reactor) 4 Reactor	’Zk‚æ‚İ
+‚ ‚ñ‚ë‚Á‚­	i was doing a task(Unloack Manifolds) 4 Reactor	’Zk‚æ‚İ
+‚¢‚¿‚©‚ç‚¶‚ã‚¤	i was doing a task(Unloack Manifolds) 4 Reactor	’Zk‚æ‚İ
+‚¶‚å‚¤‚ë	i was doing a task(Water Plants) 4 Storage	’Zk‚æ‚İ
+‚·‚Æ‚İ‚¸	i was doing a task(Water Plants) 4 Storage	’Zk‚æ‚İ
+‚·‚Æ‚ê[‚¶‚İ‚¸	i was doing a task(Water Plants) 4 Storage	’Zk‚æ‚İ
+‚Í‚È	i was doing a task(Water Plants) 4 Greenhouse	’Zk‚æ‚İ
+‚¤‚¦‚«‚Î‚¿	i was doing a task(Water Plants) 4 Greenhouse	’Zk‚æ‚İ
+‚Õ‚ç‚ñ‚½[	i was doing a task(Water Plants) 4 Greenhouse	’Zk‚æ‚İ
+‚İ‚¸‚â‚è	i was doing a task(Water Plants) 4 Greenhouse	’Zk‚æ‚İ
+‚İ‚¸‚Í‚¤‚·	i was doing a task(Water Plants) 4 Greenhouse	’Zk‚æ‚İ
+‚İ‚¸‚®‚è[‚ñ	i was doing a task(Water Plants) 4 Greenhouse	’Zk‚æ‚İ
+‚»‚¤‚Å‚ñ	i was doing a task(Diverted Power) 4 Reactor	’Zk‚æ‚İ
+‚è‚ ‚Å‚ñ	i was doing a task(Diverted Power) 4 Reactor	’Zk‚æ‚İ
+‚ ‚Ç‚Å‚ñ	i was doing a task(Diverted Power) 4 Admin	’Zk‚æ‚İ
+‚©‚Ó‚¥‚Å‚ñ	i was doing a task(Diverted Power) 4 Cafeteria	’Zk‚æ‚İ
+‚±‚İ‚ã‚Å‚ñ	i was doing a task(Diverted Power) 4 Communications	’Zk‚æ‚İ
+‚®‚è‚Å‚ñ	i was doing a task(Diverted Power) 4 Greenhouse	’Zk‚æ‚İ
+‚Í‚¤‚Å‚ñ	i was doing a task(Diverted Power) 4 Greenhouse	’Zk‚æ‚İ
+‚ç‚Ú‚Å‚ñ	i was doing a task(Diverted Power) 4 Laboratory	’Zk‚æ‚İ
+‚ß‚Ç‚Å‚ñ	i was doing a task(Diverted Power) 4 MedBay	’Zk‚æ‚İ
+‚¨‚Ó‚¡‚Å‚ñ	i was doing a task(Diverted Power) 4 Office	’Zk‚æ‚İ
+‚©‚Ó‚¥‚í‚¢	i was doing a task(Fix Wiring) 4 Storage	’Zk‚æ‚İ
+‚·‚Æ‚í‚¢	i was doing a task(Fix Wiring) 4 Storage	’Zk‚æ‚İ
+‚®‚è‚í‚¢	i was doing a task(Fix Wiring) 4 Greenhouse	’Zk‚æ‚İ
+‚Ù‚é‚í‚¢	i was doing a task(Fix Wiring) 4 Hallway	’Zk‚æ‚İ
+‚ë‚¤‚©‚í‚¢	i was doing a task(Fix Wiring) 4 Hallway	’Zk‚æ‚İ
