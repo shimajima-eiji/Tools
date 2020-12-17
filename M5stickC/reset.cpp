@@ -17,6 +17,30 @@ bool ntp_setup = false;
 RTC_TimeTypeDef RTC_TimeStruct;
 RTC_DateTypeDef RTC_DateStruct;
 
+void Wifi_connect()  // Refer thanks: https://msr-r.net/m5stickc-wifi-error/
+{
+    int cnt = 0;
+    M5.Lcd.printf("Connecting to %s\n", ssid);
+    WiFi.begin(ssid, password);
+    while (WiFi.status() != WL_CONNECTED)
+    {
+        cnt++;
+        delay(500);
+        M5.Lcd.print(".");
+        if (cnt % 10 == 0)
+        {
+            WiFi.disconnect();
+            WiFi.begin(ssid, password);
+            M5.Lcd.println("");
+        }
+        if (cnt >= 30)
+        {
+            ESP.restart();
+        }
+    }
+    M5.Lcd.printf("\nWiFi connected\n");
+}
+
 void setup()
 {
     M5.begin();
@@ -43,7 +67,7 @@ void setup()
 
     // connect to WiFi
     Serial.printf("Connecting to %s ", ssid);
-    WiFi.begin(ssid, password);
+    Wifi_connect();
 
     // Set ntp time to local
     configTime(time_difference, 0, ntpServer);
